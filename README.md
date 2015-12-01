@@ -286,3 +286,5 @@ assert_equal(response, 10)
 ~~~
 
 %%%
+
+<a href='https://learn.co/lessons/ruby-methods-readme' data-visibility='hidden'>Learn.co resource</a>
